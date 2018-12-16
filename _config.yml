@@ -27,11 +27,11 @@ gitalk:
     # 是否自动展开评论框
     autoExpand: true
     # 应用编号
-    clientID: '27798d22668192341ae2'
+    clientID: 'ccef1645988fba34c9b3'
     # 应用秘钥
-    clientSecret: 'ccf0e66c06ffc16845926fa2f54a2976e0666979'
+    clientSecret: '102059bca7960a883e729bdb7a8bc89f7a6d8b66'
     # issue仓库名
-    repo: 'https://github.com/eltonZhong/eltonZhong.github.io'
+    repo: 'eltonZhong.github.io'
     # Github名
     owner: 'EltonZhong'
     # Github名
