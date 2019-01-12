@@ -1,7 +1,8 @@
 <%
     posts = page.posts.slice(start, end);
+    console.log(start, end)
     posts.sort("date", "desc").each(function(post, i){
-        console.log(post.desc)
+        console.log(post.source);
         if (page.prev == 0 && i < start) {
             return true;
         }
